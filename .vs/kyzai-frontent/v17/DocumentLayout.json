@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\kyzai-frontent\\",
+  "WorkspaceRootPath": "D:\\GitHub\\kyzai-frontend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B36D62D-2A40-40AA-8696-FB73C8A5AA49}|kyzai-frontent.vcxproj|D:\\GitHub\\kyzai-frontent\\kyzai-frontent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6B36D62D-2A40-40AA-8696-FB73C8A5AA49}|kyzai-frontent.vcxproj|D:\\GitHub\\kyzai-frontend\\kyzai-frontent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6B36D62D-2A40-40AA-8696-FB73C8A5AA49}|kyzai-frontent.vcxproj|solutionrelative:kyzai-frontent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "kyzai-frontent.cpp",
-              "DocumentMoniker": "D:\\GitHub\\kyzai-frontent\\kyzai-frontent.cpp",
+              "DocumentMoniker": "D:\\GitHub\\kyzai-frontend\\kyzai-frontent.cpp",
               "RelativeDocumentMoniker": "kyzai-frontent.cpp",
-              "ToolTip": "D:\\GitHub\\kyzai-frontent\\kyzai-frontent.cpp",
+              "ToolTip": "D:\\GitHub\\kyzai-frontend\\kyzai-frontent.cpp",
               "RelativeToolTip": "kyzai-frontent.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-26T13:07:05.448Z",
               "EditorCaption": ""
